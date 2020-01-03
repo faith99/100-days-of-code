@@ -3,8 +3,6 @@
 ### Day 1: January 3, 2020
 Just joined the challenge and still going over the rules and guides
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Got a bunch of tutorial video's and exercises from amazing tweeter friends.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Just starting the html videos and learning new things and releasing some old ones.
